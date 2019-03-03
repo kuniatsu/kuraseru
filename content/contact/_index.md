@@ -1,9 +1,7 @@
 ---
-title: "Contact"
+title: "CONTACT"
 description: ""
 images: []
 menu: main
 weight: 0
 ---
-
-containt/containt/_index.md

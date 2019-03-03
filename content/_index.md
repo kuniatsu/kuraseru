@@ -6,17 +6,5 @@ menu: main
 weight: 5
 ---
 
-_index.md
-_index.md
-_index.md
-_index.md
-_index.md
-_index.md
-_index.md
-_index.md
-_index.md
-_index.md
-_index.md
-_index.md
-_index.md
-_index.md
+KURASERU  
+Official Web Site

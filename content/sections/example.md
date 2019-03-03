@@ -1,13 +1,8 @@
 ---
-title : "Example"
+title : "＝KURASERU Discription＝"
 description: ""
 weight: 0
 ---
 
-sections/example.md
-sections/example.md 
-sections/example.md 
-sections/example.md 
-sections/example.md sections/example.md 
-sections/example.md 
-sections/example.md sections/example.md  
+SHOJI thinks "want to show career well".   
+This company is for that purpose.
