@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://kuniatsu.github.io/kuraseru/./</loc>
+    <lastmod>2019-03-03T02:26:31+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kuniatsu.github.io/kuraseru/./about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kuniatsu.github.io/kuraseru/./posts/20190301/</loc>
+    <lastmod>2019-03-03T02:26:31+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kuniatsu.github.io/kuraseru/./posts/</loc>
+    <lastmod>2019-03-03T02:26:31+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kuniatsu.github.io/kuraseru/./contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kuniatsu.github.io/kuraseru/./categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kuniatsu.github.io/kuraseru/./sections/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kuniatsu.github.io/kuraseru/./tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kuniatsu.github.io/kuraseru/./sections/example/</loc>
+  </url>
+  
+</urlset>
