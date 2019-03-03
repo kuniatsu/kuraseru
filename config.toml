@@ -3,4 +3,5 @@ canonifyurls = true
 languageCode = "en-us"
 title = "KURASERU"
 theme = "hugo-terrassa-theme"
-publishDir = "docs"
+//publishDir = "docs"
+publishDir = "public"
