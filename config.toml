@@ -5,4 +5,4 @@ relativeurls = true
 languageCode = "en-us"
 title = "KURASERU"
 theme = "hugo-terrassa-theme"
-publishDir = "public"
+publishDir = "docs"
