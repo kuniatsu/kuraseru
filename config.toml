@@ -1,4 +1,5 @@
 baseURL = "https://kuniatsu.github.io/kuraseru/."
+canonifyurls = true
 languageCode = "en-us"
 title = "KURASERU"
 theme = "hugo-terrassa-theme"
