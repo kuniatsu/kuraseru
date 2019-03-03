@@ -3,45 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kuniatsu.github.io/kuraseru/./</loc>
+    <loc>/</loc>
     <lastmod>2019-03-03T02:26:31+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kuniatsu.github.io/kuraseru/./about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>https://kuniatsu.github.io/kuraseru/./posts/20190301/</loc>
+    <loc>/posts/20190301/</loc>
     <lastmod>2019-03-03T02:26:31+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kuniatsu.github.io/kuraseru/./posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2019-03-03T02:26:31+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kuniatsu.github.io/kuraseru/./contact/</loc>
+    <loc>/contact/</loc>
   </url>
   
   <url>
-    <loc>https://kuniatsu.github.io/kuraseru/./categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kuniatsu.github.io/kuraseru/./sections/</loc>
+    <loc>/sections/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kuniatsu.github.io/kuraseru/./tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kuniatsu.github.io/kuraseru/./sections/example/</loc>
+    <loc>/sections/example/</loc>
   </url>
   
 </urlset>

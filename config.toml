@@ -1,8 +1,8 @@
-baseURL = "https://kuniatsu.github.io/kuraseru/."
+# baseURL = "file:///Users/kuniatsu/Dropbox/hugo/kuraseru/public"
+# baseURL = "https://kuniatsu.github.io/kuraseru/"
 canonifyurls = true
+relativeurls = true
 languageCode = "en-us"
 title = "KURASERU"
-//theme = "hugo-terrassa-theme"
-theme = "terrassa"
-//publishDir = "docs"
+theme = "hugo-terrassa-theme"
 publishDir = "public"
