@@ -6,10 +6,19 @@
     <description>Recent content in BLOG on KURASERU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Mar 2019 02:26:31 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2019 22:16:30 +0900</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>20190323</title>
+      <link>/posts/20190323/</link>
+      <pubDate>Sun, 24 Mar 2019 22:16:30 +0900</pubDate>
+      
+      <guid>/posts/20190323/</guid>
+      <description>ここに内容を書くんだ。</description>
+    </item>
     
     <item>
       <title>Official Web Siteを開設しました</title>
