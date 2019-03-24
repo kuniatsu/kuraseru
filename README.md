@@ -1,25 +1,25 @@
  # 初期設定
 
-・hugoインストール
-・gitインストール
-・gitでclone
+・hugoインストール    
+・gitインストール    
+・gitでclone     
 
 
- ———————————————————
+
 
 # 記事作成
-・コマンドで$ hugo new posts/{{日付}}.mdを実行
-・作成されたcontent/posts/{{日付}}.mdを編集する
-ー・title: にタイトルを書く
-ー・draft: true をコメントアウトする
-ー・更新内容を書く
-・コマンドで$ hugoをコマンドする
-・gitでcommitしpushする
-・https://kuniatsu.github.io/kuraseru/  にアクセスして動作確認
+・コマンドで$ hugo new posts/{{日付}}.mdを実行    
+・作成されたcontent/posts/{{日付}}.mdを編集する    
+ー・title: にタイトルを書く    
+ー・draft: true をコメントアウトする    
+ー・更新内容を書く     
+・コマンドで$ hugoをコマンドする    
+・gitでcommitしpushする    
+・https://kuniatsu.github.io/kuraseru/  にアクセスして動作確認    
 
 
 
- ———————————————————
+
 
 
 # hugoをローカルで動かすためのCommand
