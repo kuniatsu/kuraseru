@@ -8,14 +8,14 @@
 
 
 # 記事作成
-・コマンドで$ hugo new posts/{{日付}}.mdを実行    
-・作成されたcontent/posts/{{日付}}.mdを編集する    
-ー・title: にタイトルを書く    
-ー・draft: true をコメントアウトする    
-ー・更新内容を書く     
-・コマンドで$ hugoをコマンドする    
-・gitでcommitしpushする    
-・https://kuniatsu.github.io/kuraseru/  にアクセスして動作確認    
+1. コマンドで$ hugo new posts/{{日付}}.mdを実行    
+2. 作成されたcontent/posts/{{日付}}.mdを編集する    
+  * title: にタイトルを書く    
+  * draft: true をコメントアウトする    
+  * 更新内容を書く     
+3. コマンドで$ hugoをコマンドする    
+4. gitでcommitしpushする    
+5. https://kuniatsu.github.io/kuraseru/  にアクセスして動作確認    
 
 
 
