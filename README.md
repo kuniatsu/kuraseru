@@ -2,10 +2,10 @@
 
 - gitの情報をユーザ情報を連絡
 - hugoインストール    
-  - https://gohugo.io/getting-started/installing/
+  - https://gohugo.io/getting-started/installing/  
 - gitインストール    
-  - https://qiita.com/godgarden/items/28bc299b35c5c60a5877
-・gitでclone     
+  - https://qiita.com/godgarden/items/28bc299b35c5c60a5877  
+- gitでclone     
   - コマンドで$ git clone git@github.com:kuniatsu/kuraseru.git
 
 
