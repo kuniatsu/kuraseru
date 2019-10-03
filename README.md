@@ -30,13 +30,13 @@ hugo server
 
 
 # TOPのimageを変更
-> /hugo/kuraseru/docs/images
+> /hugo/kuraseru/docs/images   
 に画像追加
 
-> /hugo/kuraseru/content/_index.md
+> /hugo/kuraseru/content/_index.md    
 の画像名を変更
 
-> $ hugo
+> $ hugo   
 をコマンド
 
 
