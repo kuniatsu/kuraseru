@@ -9,6 +9,14 @@
   - コマンドで$ git clone git@github.com:kuniatsu/kuraseru.git
 
 
+# hugoを0から動かすためのCommand
+hugo new site {Project名}  
+cd themes  
+git submodule add  {対象GitURL}/*https://github.com/danielkvist/hugo-terrassa-theme*/  
+cd ..  
+echo theme = \"hugo-terrassa-theme\" >> config.toml   
+hugo server  
+  
 
 # 記事作成
 - コマンドで$ hugo new posts/{{日付}}.mdを実行    
@@ -21,19 +29,20 @@
 - https://kuniatsu.github.io/kuraseru/  にアクセスして動作確認    
 
 
+# TOPのimageを変更
+> /hugo/kuraseru/docs/images
+に画像追加
+
+> /hugo/kuraseru/content/_index.md
+の画像名を変更
+
+> $ hugo
+をコマンド
 
 
 
 
-# hugoを0から動かすためのCommand
-hugo new site {Project名}  
-cd themes  
-git submodule add  {対象GitURL}/*https://github.com/danielkvist/hugo-terrassa-theme*/  
-cd ..  
-echo theme = \"hugo-terrassa-theme\" >> config.toml   
-hugo server  
-  
-  
+----------------------
 
 
 
